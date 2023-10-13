@@ -1,6 +1,5 @@
 ### Hi there 👋
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Agami-Malikov&show_icons=true&hide_title=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agami-Malikov&layout=compact&theme=transparent)
+
 
 
 ### Languages and Tools
